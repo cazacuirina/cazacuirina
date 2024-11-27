@@ -47,7 +47,7 @@ Master's in E-Business at **Faculty of Cybernetics, Statistics, and Economic Inf
 ### 📫 **Let's Connect!**  
 Feel free to reach out and connect with me! I'm always eager to collaborate, learn, and share knowledge.
 
-💼 Download my CV highlighting my experience, academic background and skills from the link below:
+💼 Download my CV highlighting my experience, academic background and skills from here:
 [Download my CV](https://github.com/cazacuirina/cazacuirina/blob/main/Cazacu_Irina_Resume.pdf)
 
 💬 **Ask me about:** Web Development, Data Analysis, and Backend Technologies  
