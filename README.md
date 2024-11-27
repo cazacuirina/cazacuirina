@@ -1,7 +1,7 @@
 ## Hi there! 👋 I'm Irina Cazacu  
 📖 **Currently studying:**  
-Master's in E-Business at **Facultatea de Cibernetică, Statistică și Informatică Economică, ASE**  
-💡 I’m passionate about deepening my knowledge in **web development**, **data analysis** using **Python**, and **database management systems**.
+Master's in E-Business at **Faculty of Cybernetics, Statistics, and Economic Informatics, ASE**  
+💡 I’m passionate about deepening my knowledge in **web development**, **data analysis**, and **database management systems**.
 
 ---
 
